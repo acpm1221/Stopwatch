@@ -9,6 +9,11 @@ body {
     overflow: hidden;
     align-items: center;
   }
+  body h1{
+    
+    text-shadow: #225d49;
+    color:#66CDAA;
+  }
   
   #timer {
     font-size: 7rem;
